@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+}
+
+h1{
+    color: aqua;
+    margin-left: 30px;
+}
+
+h2{
+    color: rgb(218, 3, 146);
+    text-align: center;
+}
